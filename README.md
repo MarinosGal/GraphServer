@@ -6,7 +6,7 @@ It is developed in Java and the GUI in Swing. The database that uses is MonetDB.
 
 # Database Installation
 1. Download MonetDB from the official site: https://www.monetdb.org/Downloads
-2. Run the installer, based on the os that you chose and select the default installation.
+2. Run the installer and select the default installation.
 
 # Run the Application
 1. After the installation of MonetDB, run the the MonetDB SQL Server and the MonetDB SQL Client. Create a database called 'monetdb', using the MonetDB SQL Client.
